@@ -1,0 +1,13 @@
+database: sql-server
+datasource: ''
+ddl-auto: update
+driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+hibernate: ''
+jpa: ''
+password: 12345678
+port: 8083
+server: ''
+show-sql: false
+spring: ''
+url: jdbc:sqlserver://localhost:1433;databasename=hrsdb
+username: sa
